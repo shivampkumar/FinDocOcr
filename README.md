@@ -1,4 +1,4 @@
-In terminal, navigate to the folder called rrd_ocr
+In terminal, navigate to the folder called FinDocOcr
 
 Place the pdfs you want to convert to docx format in the folder called src/Dataset/
 
